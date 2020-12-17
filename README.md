@@ -2,7 +2,7 @@
 > 一个快速搭建和开发vue项目的脚手架
 
 ##### 安装
-> npm install myvuecli -g
+> npm install hvc -g
 
 ##### 使用
-> myvuecli create 项目名称
+> hvc create 项目名称
