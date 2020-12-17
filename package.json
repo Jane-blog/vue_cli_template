@@ -1,0 +1,26 @@
+{
+  "name": "myvuecli",
+  "version": "1.0.0",
+  "description": "a vue cli template",
+  "main": "index.js",
+  "bin": {
+    "myvuecli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["myvuecli", "vue", "cli"],
+  "author": "Jane",
+  "license": "MIT",
+  "homepage": "https://github.com/JaneHanCoder/vue_cli_template.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JaneHanCoder/vue_cli_template.git"
+  },
+  "dependencies": {
+    "commander": "^6.1.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.5",
+    "open": "^7.3.0"
+  }
+}
